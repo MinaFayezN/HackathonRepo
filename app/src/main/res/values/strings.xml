@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hackathon</string>
+    <string name="title_text">Title</string>
+    <string name="login_text">Login</string>
 </resources>
